@@ -18,5 +18,5 @@ Deep Learning (Keras):
 Time-Series (Statsmodels): 
 * Autoregressive Integrated Moving Average model 
     
-Visualisations for predicted Bitcoin Price and model comparison were developed using Python's plotly, D3.js, Tableu and deployed to Amazon Web Service S3 Buckets at https://s3-ap-southeast-2.amazonaws.com/capstone-bitcoin/prices/index.html#actualprice
+Visualisations for predicted Bitcoin Price and model comparison were developed using Python's plotly, D3.js, Tableu and deployed to AWS S3 Buckets at https://s3-ap-southeast-2.amazonaws.com/capstone-bitcoin/prices/index.html#actualprice
 
