@@ -8,7 +8,7 @@ Relevant features are then then applied to train and compare the performance of 
 
 Machine Learning (Scikit-learn, XGBoost): 
 * Parametric: OLS Linear Regression, Lasso, Ridge, Bayesian Ridge, ElasticNet
-* Non-Parametric: KNN, Support Vector Regression, Gradient Boosting Trees, Extremely Randomised Trees, Decision Tree
+* Non-parametric: KNN, Support Vector Regression, Gradient Boosting Trees, Extremely Randomised Trees, Decision Tree
 
 Deep Learning (Keras): 
 * Recurrent Neural Networks: LSTM, GRU 
