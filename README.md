@@ -7,9 +7,8 @@ This project analyses the time-series of Bitcoin process and macro-economic fact
 Relevant features are then then applied to train and compare the performance of the 14 models on predicting the latest Bitcoin Price in 2018 using Python libraries: 
 
 Machine Learning (Scikit-learn, XGBoost): 
-* Linear: Linear Regression, Lasso, Ridge, Bayesian Ridge, ElasticNet
-* Non-linear: KNN, Support Vector Regression
-* Tree-based: Gradient Boosting Trees, Extremely Randomised Trees, Decision Trees
+* Parametric: OLS Linear Regression, Lasso, Ridge, Bayesian Ridge, ElasticNet
+* Non-Parametric: KNN, Support Vector Regression, Gradient Boosting Trees, Extremely Randomised Trees, Decision Tree
 
 Deep Learning (Keras): 
 * Recurrent Neural Networks: LSTM, GRU 
